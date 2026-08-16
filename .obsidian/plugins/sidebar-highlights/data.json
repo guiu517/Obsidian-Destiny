@@ -3,7 +3,7 @@
   "highlightColor": "#ffd700",
   "sidebarPosition": "right",
   "highlights": {
-    "子平洞观/02劫财/02性格的五行推导.md": [
+    "子平洞观/比肩合论/02劫财/02性格的五行推导.md": [
       {
         "id": "e9sg00qwi",
         "text": "直觉自己子女有理，即使千百种证明是自己不对，也要用尽一切言辞举动",
@@ -11,7 +11,7 @@
         "line": 18,
         "startOffset": 385,
         "endOffset": 421,
-        "filePath": "子平洞观/02劫财/02性格的五行推导.md",
+        "filePath": "子平洞观/比肩合论/02劫财/02性格的五行推导.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "固执，一切都觉得自己是对的，很难接纳他人的意见。总是用固有的思维和眼光去看待人和事。而且性格大多有点古怪，不讨人喜欢，朋友少，还不愿意承认自己的错误不愿意接受批评，用现代词形容就是大男子主义"
@@ -27,7 +27,7 @@
         "line": 18,
         "startOffset": 426,
         "endOffset": 442,
-        "filePath": "子平洞观/02劫财/02性格的五行推导.md",
+        "filePath": "子平洞观/比肩合论/02劫财/02性格的五行推导.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "好胜心强，不愿意承认自己的失败，发现别人比自己强内心就很失落，甚至会强词夺理，鸡蛋里挑骨头。"
@@ -43,7 +43,7 @@
         "line": 19,
         "startOffset": 452,
         "endOffset": 475,
-        "filePath": "子平洞观/02劫财/02性格的五行推导.md",
+        "filePath": "子平洞观/比肩合论/02劫财/02性格的五行推导.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "自以为是，有时候把自己放的位置有点高，其实啥也不是。从心理角度来看这是典型的自卑心理。"
@@ -59,7 +59,7 @@
         "line": 19,
         "startOffset": 480,
         "endOffset": 500,
-        "filePath": "子平洞观/02劫财/02性格的五行推导.md",
+        "filePath": "子平洞观/比肩合论/02劫财/02性格的五行推导.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "归因错误，会把一切不满嫁祸他人，不从自身找原因"
@@ -69,137 +69,7 @@
         "type": "highlight"
       }
     ],
-    "子平洞观/01比肩/附 各柱年限.md": [
-      {
-        "id": "1muy2tund",
-        "text": "甲",
-        "tags": [],
-        "line": 1,
-        "startOffset": 3,
-        "endOffset": 8,
-        "filePath": "子平洞观/01比肩/附 各柱年限.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "年干主管：出童限后——六岁"
-        ],
-        "createdAt": 1786839846577,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "jhz80x4a8",
-        "text": "丁",
-        "tags": [],
-        "line": 1,
-        "startOffset": 15,
-        "endOffset": 20,
-        "filePath": "子平洞观/01比肩/附 各柱年限.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "月干主管：十五岁——二十二岁 7年"
-        ],
-        "createdAt": 1786839854591,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "d6xoy9dqs",
-        "text": "甲",
-        "tags": [],
-        "line": 1,
-        "startOffset": 27,
-        "endOffset": 32,
-        "filePath": "子平洞观/01比肩/附 各柱年限.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "日干主管：二十九岁——三十七岁 8年"
-        ],
-        "createdAt": 1786839862119,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "w4adpueu6",
-        "text": "己",
-        "tags": [],
-        "line": 1,
-        "startOffset": 39,
-        "endOffset": 44,
-        "filePath": "子平洞观/01比肩/附 各柱年限.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "时干主管：四十五岁——五十五岁 10年"
-        ],
-        "createdAt": 1786839865426,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "t7htmzxps",
-        "text": "申",
-        "tags": [],
-        "line": 3,
-        "startOffset": 103,
-        "endOffset": 108,
-        "filePath": "子平洞观/01比肩/附 各柱年限.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "年支主管：六岁——十五岁  9年"
-        ],
-        "createdAt": 1786839871721,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "p3b4t92e4",
-        "text": "卯",
-        "tags": [],
-        "line": 3,
-        "startOffset": 115,
-        "endOffset": 120,
-        "filePath": "子平洞观/01比肩/附 各柱年限.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "月支主管：二十二岁——二十九岁 7年"
-        ],
-        "createdAt": 1786839876006,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "21qlxiadi",
-        "text": "午",
-        "tags": [],
-        "line": 3,
-        "startOffset": 127,
-        "endOffset": 132,
-        "filePath": "子平洞观/01比肩/附 各柱年限.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "日支主管：三十七岁——四十五岁 8年"
-        ],
-        "createdAt": 1786839888658,
-        "isNativeComment": false,
-        "type": "highlight"
-      },
-      {
-        "id": "n9sfzef3f",
-        "text": "巳",
-        "tags": [],
-        "line": 3,
-        "startOffset": 139,
-        "endOffset": 144,
-        "filePath": "子平洞观/01比肩/附 各柱年限.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "时支主管：五十五岁——死亡"
-        ],
-        "createdAt": 1786839896670,
-        "isNativeComment": false,
-        "type": "highlight"
-      }
-    ],
-    "子平洞观/01比肩/02性格的定位.md": [
+    "子平洞观/比肩合论/01比肩/02性格的定位.md": [
       {
         "id": "3ftzmel55",
         "text": "外动（流动）事业",
@@ -207,7 +77,7 @@
         "line": 12,
         "startOffset": 199,
         "endOffset": 211,
-        "filePath": "子平洞观/01比肩/02性格的定位.md",
+        "filePath": "子平洞观/比肩合论/01比肩/02性格的定位.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "送外卖、销售、上门服务、导游、外景记者、地质测绘员、巡逻保安、代理等不固定位置的职业"
@@ -223,7 +93,7 @@
         "line": 22,
         "startOffset": 390,
         "endOffset": 398,
-        "filePath": "子平洞观/01比肩/02性格的定位.md",
+        "filePath": "子平洞观/比肩合论/01比肩/02性格的定位.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "比肩虽同我，然其非善神"
@@ -233,7 +103,7 @@
         "type": "highlight"
       }
     ],
-    "子平洞观/01比肩/03实务周边认知.md": [
+    "子平洞观/比肩合论/01比肩/03实务周边认知.md": [
       {
         "id": "stezjgdkr",
         "text": "比肩克财",
@@ -241,7 +111,7 @@
         "line": 44,
         "startOffset": 806,
         "endOffset": 814,
-        "filePath": "子平洞观/01比肩/03实务周边认知.md",
+        "filePath": "子平洞观/比肩合论/01比肩/03实务周边认知.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "- 既要求伴侣服从，又对伴侣挑剔；"
@@ -257,7 +127,7 @@
         "line": 46,
         "startOffset": 855,
         "endOffset": 861,
-        "filePath": "子平洞观/01比肩/03实务周边认知.md",
+        "filePath": "子平洞观/比肩合论/01比肩/03实务周边认知.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "卖假烟、跑腿、代肝游戏等"
@@ -273,7 +143,7 @@
         "line": 48,
         "startOffset": 922,
         "endOffset": 933,
-        "filePath": "子平洞观/01比肩/03实务周边认知.md",
+        "filePath": "子平洞观/比肩合论/01比肩/03实务周边认知.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "如买东西时虽然会问其他人意见，但也只是找个合理的由头。即使别人百般劝阻，但也会固执己见。"
@@ -289,7 +159,7 @@
         "line": 49,
         "startOffset": 968,
         "endOffset": 978,
-        "filePath": "子平洞观/01比肩/03实务周边认知.md",
+        "filePath": "子平洞观/比肩合论/01比肩/03实务周边认知.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "在恋爱关系中过于以自我为中心，说话、做事、做决定时，习惯从自己的角度、感受和利益出发，较少考虑女友的想法和需求。女友觉得被忽视、不被尊重，时间久了就会积累成不满。"
@@ -305,7 +175,7 @@
         "line": 50,
         "startOffset": 999,
         "endOffset": 1008,
-        "filePath": "子平洞观/01比肩/03实务周边认知.md",
+        "filePath": "子平洞观/比肩合论/01比肩/03实务周边认知.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "认为男性应该处于主导地位，女性应该顺从、配合。会让伴侣感到压抑、不被尊重，容易积累不满。"
@@ -321,7 +191,7 @@
         "line": 50,
         "startOffset": 1013,
         "endOffset": 1021,
-        "filePath": "子平洞观/01比肩/03实务周边认知.md",
+        "filePath": "子平洞观/比肩合论/01比肩/03实务周边认知.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "对自己和别人都要求完美。"
@@ -337,12 +207,142 @@
         "line": 50,
         "startOffset": 1026,
         "endOffset": 1034,
-        "filePath": "子平洞观/01比肩/03实务周边认知.md",
+        "filePath": "子平洞观/比肩合论/01比肩/03实务周边认知.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "花钱没有计划，冲动消费。"
         ],
         "createdAt": 1786838341991,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "子平洞观/比肩合论/01比肩/附 各柱年限.md": [
+      {
+        "id": "1muy2tund",
+        "text": "甲",
+        "tags": [],
+        "line": 1,
+        "startOffset": 3,
+        "endOffset": 8,
+        "filePath": "子平洞观/比肩合论/01比肩/附 各柱年限.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "年干主管：出童限后——六岁"
+        ],
+        "createdAt": 1786839846577,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "jhz80x4a8",
+        "text": "丁",
+        "tags": [],
+        "line": 1,
+        "startOffset": 15,
+        "endOffset": 20,
+        "filePath": "子平洞观/比肩合论/01比肩/附 各柱年限.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "月干主管：十五岁——二十二岁 7年"
+        ],
+        "createdAt": 1786839854591,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "d6xoy9dqs",
+        "text": "甲",
+        "tags": [],
+        "line": 1,
+        "startOffset": 27,
+        "endOffset": 32,
+        "filePath": "子平洞观/比肩合论/01比肩/附 各柱年限.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "日干主管：二十九岁——三十七岁 8年"
+        ],
+        "createdAt": 1786839862119,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "w4adpueu6",
+        "text": "己",
+        "tags": [],
+        "line": 1,
+        "startOffset": 39,
+        "endOffset": 44,
+        "filePath": "子平洞观/比肩合论/01比肩/附 各柱年限.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "时干主管：四十五岁——五十五岁 10年"
+        ],
+        "createdAt": 1786839865426,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "t7htmzxps",
+        "text": "申",
+        "tags": [],
+        "line": 3,
+        "startOffset": 103,
+        "endOffset": 108,
+        "filePath": "子平洞观/比肩合论/01比肩/附 各柱年限.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "年支主管：六岁——十五岁  9年"
+        ],
+        "createdAt": 1786839871721,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "p3b4t92e4",
+        "text": "卯",
+        "tags": [],
+        "line": 3,
+        "startOffset": 115,
+        "endOffset": 120,
+        "filePath": "子平洞观/比肩合论/01比肩/附 各柱年限.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "月支主管：二十二岁——二十九岁 7年"
+        ],
+        "createdAt": 1786839876006,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "21qlxiadi",
+        "text": "午",
+        "tags": [],
+        "line": 3,
+        "startOffset": 127,
+        "endOffset": 132,
+        "filePath": "子平洞观/比肩合论/01比肩/附 各柱年限.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "日支主管：三十七岁——四十五岁 8年"
+        ],
+        "createdAt": 1786839888658,
+        "isNativeComment": false,
+        "type": "highlight"
+      },
+      {
+        "id": "n9sfzef3f",
+        "text": "巳",
+        "tags": [],
+        "line": 3,
+        "startOffset": 139,
+        "endOffset": 144,
+        "filePath": "子平洞观/比肩合论/01比肩/附 各柱年限.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "时支主管：五十五岁——死亡"
+        ],
+        "createdAt": 1786839896670,
         "isNativeComment": false,
         "type": "highlight"
       }

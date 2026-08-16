@@ -1,5 +1,6 @@
 {
   "showRibbon": false,
   "enabledCssSnippets": [],
-  "theme": "system"
+  "theme": "system",
+  "nativeMenus": false
 }
