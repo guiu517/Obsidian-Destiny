@@ -3,5 +3,6 @@
   "strictLineBreaks": false,
   "showIndentGuide": true,
   "propertiesInDocument": "hidden",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
 }

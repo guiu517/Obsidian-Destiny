@@ -307,7 +307,6 @@
         "type": "html"
       }
     ],
-    "子平洞观/正印与偏印/偏印/05格局喜忌.md": [],
     "子平洞观/印星/偏印/01性格.md": [
       {
         "id": "92tk0nbkj",
@@ -941,6 +940,24 @@
           "他成长环境、认知层次和基层差太远。"
         ],
         "createdAt": 1787564328585,
+        "isNativeComment": false,
+        "type": "highlight"
+      }
+    ],
+    "子平洞观/食伤/食伤同论.md": [
+      {
+        "id": "327weczb4",
+        "text": "父母方面不太好",
+        "tags": [],
+        "line": 103,
+        "startOffset": 1595,
+        "endOffset": 1606,
+        "filePath": "子平洞观/食伤/食伤同论.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "- 出身家庭不理想"
+        ],
+        "createdAt": 1787642970286,
         "isNativeComment": false,
         "type": "highlight"
       }
